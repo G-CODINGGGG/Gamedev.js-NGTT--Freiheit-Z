@@ -15,20 +15,20 @@ offset_bottom = 40.0
 
 [node name="Start" type="Button" parent="Control" unique_id=1780263180]
 layout_mode = 0
-offset_left = 452.0
-offset_top = 284.00006
-offset_right = 551.0
-offset_bottom = 338.00006
+offset_left = 803.0
+offset_top = 519.0
+offset_right = 902.0
+offset_bottom = 573.0
 scale = Vector2(2.5451002, 2.5451002)
 text = "Begin
 Destruction"
 
 [node name="Quit" type="Button" parent="Control" unique_id=449053599]
 layout_mode = 0
-offset_left = 485.99997
-offset_top = 484.99994
-offset_right = 562.0
-offset_bottom = 539.0
+offset_left = 835.0
+offset_top = 722.0
+offset_right = 911.0
+offset_bottom = 776.00006
 scale = Vector2(2.5200033, 1.8533336)
 text = "Give Up 
 "
@@ -41,8 +41,8 @@ scale = Vector2(28.88069, 16.24395)
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=1816564541]
 z_index = -2
-position = Vector2(583, 321)
-scale = Vector2(0.59999967, 0.59999967)
+position = Vector2(954.99994, 537.00006)
+scale = Vector2(0.99635404, 1.0037036)
 texture = ExtResource("3_1ehe0")
 
 [connection signal="pressed" from="Control/Start" to="." method="_on_start_pressed"]

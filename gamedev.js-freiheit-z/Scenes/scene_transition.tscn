@@ -53,8 +53,8 @@ _data = {
 }
 
 [node name="ColorRect" type="ColorRect" unique_id=857565887]
-offset_right = 40.0
-offset_bottom = 40.0
+offset_right = 66.81755
+offset_bottom = 66.60494
 scale = Vector2(28.72, 16.2)
 color = Color(0.27067044, 0.03116195, 0.04558917, 1)
 

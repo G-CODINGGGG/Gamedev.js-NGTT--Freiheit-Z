@@ -76,8 +76,8 @@ script = ExtResource("1_yol46")
 
 [node name="ColorRect" parent="CanvasLayer" unique_id=857565887 instance=ExtResource("2_olg1v")]
 z_index = 2
-offset_right = 40.355156
-offset_bottom = 40.4321
+offset_right = 66.92201
+offset_bottom = 66.666664
 
 [node name="Freiheit-Z" parent="." unique_id=800076182 instance=ExtResource("1_k86tm")]
 position = Vector2(233, 1207)
